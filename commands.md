@@ -1,9 +1,13 @@
 # packages
+
 django
 python-dotenv
 djangorestframeworks
 pytest
 pytest-django
+flake8
+django-mptt
+
 # commands
 
 django-admin startproject drfecommerce
