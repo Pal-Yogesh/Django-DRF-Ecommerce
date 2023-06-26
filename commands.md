@@ -7,6 +7,7 @@ pytest
 pytest-django
 flake8
 django-mptt
+drf-spectacular
 
 # commands
 
